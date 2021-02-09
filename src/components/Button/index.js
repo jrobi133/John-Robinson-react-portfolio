@@ -13,6 +13,7 @@ export const Button =({
     buttonStyle,
     buttonSize
 }) => {
+    
     const checkButtonStyle = STYLES.includes(buttonStyle) ? buttonStyle : STYLES[0]
     const checkButtonSize = SIZES.includes(buttonSize) ? buttonSize : SIZES[0]
 
@@ -22,5 +23,5 @@ export const Button =({
                 {children}
             </button>
         </Link>
-    )
+    );
 };
