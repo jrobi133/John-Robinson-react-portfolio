@@ -8,10 +8,10 @@ function Footer() {
         <div className='footer-container'>
             <section className="footer-subscription">
                 <p className='footer-subscription-heading'>
-                    join the adventure newsletter to receive our best deals
+                    Feel free to email me about any job opportunity's any time.
                 </p>
                 <p className='footer-subscription-text'>
-                    you can unsub at any time.
+                    Thank you for stopping by.
                 </p>
                 <div className="input-areas">
                     <form>
@@ -20,18 +20,6 @@ function Footer() {
                     </form>
                 </div>
             </section>
-            <div className="footer-links">
-                <div className="footer-link-wrapper">
-                <div class='footer-link-items'>
-            <h2>About Us</h2>
-            <Link to='/sign-up'>How it works</Link>
-            <Link to='/'>Testimonials</Link>
-            <Link to='/'>Careers</Link>
-            <Link to='/'>Investors</Link>
-            <Link to='/'>Terms of Service</Link>
-          </div>
-                </div>
-            </div>
             <section class='social-media'>
         <div class='social-media-wrap'>
           <div class='social-icons'>
