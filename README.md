@@ -1,6 +1,6 @@
 # React Portfolio
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Website](https://img.shields.io/website-portfolio-down-green-red/http/lbesson.bitbucket.org.svg)](https://jrobi133.github.io/PortfolioJohnRobinson/index.html)
+[![Website](https://img.shields.io/website-portfolio-down-green-red/http/lbesson.bitbucket.org.svg)](https://johns-react-portfolio.herokuapp.com/)
 ## Description:
     
 This is my first React portfolio. In it shows stuff about me and the tools I know also links to my projects and a way to contact me. To see the deployed site click here: https://johns-react-portfolio.herokuapp.com
