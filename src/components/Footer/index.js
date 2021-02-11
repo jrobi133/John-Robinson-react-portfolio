@@ -23,22 +23,22 @@ function Footer() {
             <section class='social-media'>
         <div class='social-media-wrap'>
           <div class='social-icons'>
-            <Link
+            <a
               class='social-icon-link twitter'
-              to='https://github.com/jrobi133'
+              href='https://github.com/jrobi133'
               target='_blank'
               aria-label='Twitter'
             >
               <i class='fab fa-github fa-2x' />
-            </Link>
-            <Link
+            </a>
+            <a
               class='social-icon-link twitter'
-              to='https://www.linkedin.com/in/john-robinson-966329b8/'
+              href='https://www.linkedin.com/in/john-robinson-966329b8/'
               target='_blank'
               aria-label='LinkedIn'
             >
               <i class='fab fa-linkedin fa-2x' />
-            </Link>
+            </a>
           </div>
         </div>
       </section>
