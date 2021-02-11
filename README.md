@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website-portfolio-down-green-red/http/lbesson.bitbucket.org.svg)](https://jrobi133.github.io/PortfolioJohnRobinson/index.html)
 ## Description:
     
-This is my first React portfolio. In it shows stuff about me and the tools I know also links to my projects and a way to contact me.
+This is my first React portfolio. In it shows stuff about me and the tools I know also links to my projects and a way to contact me. To see the deployed site click here: https://johns-react-portfolio.herokuapp.com
     
     
 ## Table of Contents:
