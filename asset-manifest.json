@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/John-Robinson-employee-directory/static/css/main.5f4b40ff.chunk.css",
+    "main.js": "/John-Robinson-employee-directory/static/js/main.41a62520.chunk.js",
+    "main.js.map": "/John-Robinson-employee-directory/static/js/main.41a62520.chunk.js.map",
+    "runtime-main.js": "/John-Robinson-employee-directory/static/js/runtime-main.cf269c78.js",
+    "runtime-main.js.map": "/John-Robinson-employee-directory/static/js/runtime-main.cf269c78.js.map",
+    "static/js/2.7d7801ce.chunk.js": "/John-Robinson-employee-directory/static/js/2.7d7801ce.chunk.js",
+    "static/js/2.7d7801ce.chunk.js.map": "/John-Robinson-employee-directory/static/js/2.7d7801ce.chunk.js.map",
+    "index.html": "/John-Robinson-employee-directory/index.html",
+    "static/css/main.5f4b40ff.chunk.css.map": "/John-Robinson-employee-directory/static/css/main.5f4b40ff.chunk.css.map",
+    "static/js/2.7d7801ce.chunk.js.LICENSE.txt": "/John-Robinson-employee-directory/static/js/2.7d7801ce.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/John-Robinson-employee-directory/static/media/img-8.fabdf94d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf269c78.js",
+    "static/js/2.7d7801ce.chunk.js",
+    "static/css/main.5f4b40ff.chunk.css",
+    "static/js/main.41a62520.chunk.js"
+  ]
+}
