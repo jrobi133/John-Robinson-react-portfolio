@@ -30,10 +30,17 @@
   background-position: center;
   background-size: fill;
   background-repeat: no-repeat;
-  /* color: #fff;
-  font-size: 25px; */
+  color: #fff;
+  font-size: 25px;
 }
-
+.contact-form {
+  background: rgba(0, 0, 0, .6);
+  color: white;
+  margin-top: 100px;
+  padding: 20px;
+  box-shadow: 0px 0px 10px 3px gray;
+  margin-bottom: 50px;
+}
 
 .sign-up {
   background-image: url('./images/img-8.jpg');
