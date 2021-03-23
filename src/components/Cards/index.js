@@ -6,6 +6,7 @@ function Cards() {
     return (
         <div className='cards'>
             <h1>Check out my Projects.</h1>
+            <h3>It will take a minute to load up due to using a free service for my projects, and maybe a reload</h3>
              <div className="cards__wrapper">
                  <ul className="cards__items">
                      <CardItem 
