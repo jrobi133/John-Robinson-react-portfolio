@@ -17,7 +17,7 @@ function Cards() {
           <CardItem
             src="images/memoryGames.PNG"
             text="Memory Games"
-            path="https://memory-games-project.herokuapp.com/"
+            path="https://github.com/jrobi133/memory-games"
             git="https://github.com/jrobi133/memory-games"
             gitText="Github Link"
           />
@@ -38,7 +38,7 @@ function Cards() {
           <CardItem
             src="images/noteTaker.PNG"
             text="Note Taker"
-            path="https://pacific-plains-75638.herokuapp.com/notes"
+            path="https://github.com/jrobi133/John-Robinson-Note-Taker"
             git="https://github.com/jrobi133/John-Robinson-Note-Taker"
             gitText="Github Link"
           />
@@ -61,7 +61,7 @@ function Cards() {
           <CardItem
             src="images/workoutTracker.png"
             text="Workout Tracker"
-            path="https://johnsworkouttracker.herokuapp.com"
+            path="https://github.com/jrobi133/John-Robinson-Workout-Tracker"
             git="https://github.com/jrobi133/John-Robinson-Workout-Tracker"
             gitText="Github Link"
           />
