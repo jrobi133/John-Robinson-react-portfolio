@@ -22,10 +22,10 @@ function Cards() {
             gitText="Github Link"
           />
           <CardItem
-            src="images/reserveARoom.PNG"
+            src="images/shortClips.PNG"
             text="Reserve a Room"
-            path="https://reserve-a-room.herokuapp.com/"
-            git="https://github.com/HeavensRegent/reserve-a-room"
+            path="https://github.com/jrobi133/short_clips"
+            git="https://github.com/jrobi133/short_clips"
             gitText="Github Link"
           />
           <CardItem
