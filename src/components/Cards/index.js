@@ -21,7 +21,7 @@ function Cards() {
           />
           <CardItem
             src="images/shortClips.PNG"
-            text="Reserve a Room"
+            text="Short Clips"
             path="https://github.com/jrobi133/short_clips"
             git="https://github.com/jrobi133/short_clips"
             gitText="Github Link"
