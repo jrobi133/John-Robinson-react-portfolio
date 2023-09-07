@@ -7,6 +7,7 @@ function Cards() {
     <div className="cards">
       <h1>Check out my Projects.</h1>
       <h3>
+        I’m currently working on creating videos to showcase each application.
         Some of the applications are not running at the moment due to hosting
         fee's, but the Github links all lead to the projects source code.
       </h3>
@@ -15,9 +16,12 @@ function Cards() {
           <CardItem
             src="images/memoryGames.PNG"
             text="Memory Games"
+            description="Memory Games description"
+            vid="https://github.com/jrobi133/memory-games"
             path="https://github.com/jrobi133/memory-games"
             git="https://github.com/jrobi133/memory-games"
             gitText="Github Link"
+            // liveSite="Live Site"
           />
           <CardItem
             src="images/shortClips.PNG"
