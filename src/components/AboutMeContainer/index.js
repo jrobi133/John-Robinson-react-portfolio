@@ -13,7 +13,7 @@ function AboutMeContainer() {
     <h1 className="resume-title">Resume</h1>
       <h2>Education</h2>
       <p>B.S. in Computer Science, Wilmington University (Aug 31, 2023)</p>
-      <p>Certificate: University of Utah, Boding Boot Camp – Full Stack Web Development</p>
+      <p>Certificate: University of Utah, Coding Boot Camp – Full Stack Web Development</p>
       <p>Security Clearance: Top Secret (Pending)</p>
     </div>
   </div>
