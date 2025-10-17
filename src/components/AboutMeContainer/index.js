@@ -3,52 +3,63 @@ import "./AboutMeContainer.css";
 
 function AboutMeContainer() {
   return (
-    <div className="container contact-form">
-      <h1>About Me</h1>
-      <hr></hr>
+    <div className="AboutMeContainer">
+      <hr />
 
-      <div className="row">
-        <div className="col-md-12">
-          <div>
-            <img src="./images/me1.jpg" alt="Placeholder" className="imgMe" />
-            <p>
-              Passionate software engineer driven by excellence and a deep
-              commitment to innovation. Equipped with a diverse skill set
-              encompassing full-stack web development, server-side expertise,
-              and database management. Proficient in a wide range of
-              technologies including ReactJS, JavaScript, Java, HTML, CSS, and
-              more, enabling the creation of impactful and user-centric
-              solutions.{" "}
-            </p>
-            <p>
-              My background as a teacher assistant and fraud specialist provides
-              a unique perspective that enhances my problem-solving and
-              service-oriented abilities. I specialize in popular MVC frameworks
-              like MERN Stack, and I possess advanced knowledge of Git, GraphQL,
-              and user authentication for developing scalable applications.{" "}
-            </p>
-            <p>
-              With a Bachelor's degree in Computer Science from Wilmington
-              University, supported by Discover's Education services, I am eager
-              to contribute my skills and expertise to dynamic software
-              engineering projects. My portfolio showcases a range of projects
-              that highlight my creative problem-solving skills and technical
-              prowess.{" "}
-            </p>
-          </div>
-        </div>
-      </div>
-      <div className="row">
-        <div className="col-md-12">
-          <div>
-            <p>
-              In conclusion I would like to say thank you for looking over this.
-              This is one of the the greatest industry to be in and let’s make a
-              change. Thank you.
-            </p>
-          </div>
-        </div>
-      </div>
+      <div className="resume-card">
+  <div className="resume-header">
+    <img src="./images/me2025.jpg" alt="Andrew Robinson" className="resume-img" />
+    <div>
+    <h1 className="resume-title">Resume</h1>
+      <h2>Education</h2>
+      <p>B.S. in Computer Science, Wilmington University (Aug 31, 2023)</p>
+      <p>Certificate: University of Utah, Boding Boot Camp – Full Stack Web Development</p>
+      <p>Security Clearance: Top Secret (Pending)</p>
+    </div>
+  </div>
+
+  <section className="resume-section">
+    <h2>Work Experience</h2>
+
+    <div className="job">
+      <h3>The JAAW Group – Software Engineer</h3>
+      <span className="date">Sep 2023 – Jun 2024</span>
+      <p>Software developer contractor for Hill Air Force Base.</p>
+      <h4>Key Accomplishments:</h4>
+      <ul>
+        <li>Developed robust backend in C#, improving system performance and reliability.</li>
+        <li>Used Azure DevOps for scheduling and quality control.</li>
+        <li>Collaborated with cross-functional teams to achieve project goals.</li>
+        <li>Implemented database migrations with .NET Entity Framework.</li>
+      </ul>
+    </div>
+
+    <div className="job">
+      <h3>Trilogy Education (edX) – Software Engineer / Assistant Instructor</h3>
+      <span className="date">Apr 2021 – Present</span>
+      <p>Teaching assistant for a full stack web development bootcamp.</p>
+      <h4>Key Accomplishments:</h4>
+      <ul>
+        <li>Helped students grasp full-stack concepts and web technologies.</li>
+        <li>Developed full-stack web apps using modern frameworks.</li>
+        <li>Used GitHub for version control and project updates.</li>
+        <li>Assisted with NoSQL database setup using Atlas and AWS.</li>
+      </ul>
+    </div>
+
+    <div className="job">
+      <h3>Action Toy Rentals – Software Engineer</h3>
+      <span className="date">Jun 2018 – Apr 2021</span>
+      <h4>Key Accomplishments:</h4>
+      <ul>
+        <li>Improved online booking capabilities and customer experience.</li>
+        <li>Developed front-end UI and mock-up translations.</li>
+        <li>Designed user interactions and debugged applications.</li>
+      </ul>
+    </div>
+  </section>
+</div>
+
     </div>
   );
 }

@@ -1,16 +1,85 @@
-.contact-form {
-    width: 70%;
-    background: rgba(0, 0, 0, .6);
-    color: white;
-    margin-top: 10px;
-    padding: 20px;
-    box-shadow: 0px 0px 10px 3px gray;
-    margin-bottom: 50px;
+.AboutMeContainer {
+  padding-top: 100px; /* Matches navbar height */
+  padding-bottom: 50px;
+  margin-bottom: 100px; /* Space for the next component */
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  min-height: 100vh;
+  background-color: transparent;
+  color: white;
+  overflow: auto; /* Prevents content overflow issues */
 }
 
-.imgMe {
-    height: 300px;
-    width: 300px;
-    float: left;
-    margin-right: 25px;
+.resume-card {
+  background: rgba(0, 0, 0, 0.6);
+  border-radius: 12px;
+  padding: 2rem;
+  max-width: 900px;
+  width: 100%;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
+  backdrop-filter: blur(5px);
+  line-height: 1.7;
 }
+  
+  .resume-header {
+    display: flex;
+    align-items: flex-start;
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+    flex-wrap: wrap;
+  }
+  
+  .resume-img {
+    width: 140px;
+    border-radius: 10px;
+    object-fit: cover;
+  }
+  
+  .resume-section {
+    margin-bottom: 2rem;
+  }
+  
+  .resume-section h2 {
+    color: #77c7ff;
+    border-bottom: 1px solid #77c7ff;
+    padding-bottom: 0.3rem;
+    margin-bottom: 1rem;
+    letter-spacing: 0.5px;
+  }
+  
+  .job {
+    margin-bottom: 2rem;
+  }
+  
+  .job h3 {
+    color: #fff;
+    font-size: 1.2rem;
+    margin-bottom: 0.2rem;
+  }
+  
+  .job .date {
+    display: block;
+    font-size: 0.9rem;
+    color: #ccc;
+    margin-bottom: 0.5rem;
+  }
+  
+  .job h4 {
+    color: #77c7ff;
+    margin-top: 0.6rem;
+    margin-bottom: 0.4rem;
+    font-size: 1rem;
+  }
+  
+  ul {
+    list-style: disc;
+    padding-left: 1.5rem;
+    margin-top: 0.3rem;
+  }
+  
+  ul li {
+    margin-bottom: 0.4rem;
+    word-spacing: 0.05rem;
+  }
+  
